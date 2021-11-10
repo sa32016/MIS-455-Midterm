@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+    padding-top: 221px;
+}
+
+.para1{
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+    margin-left: 481px;
+    margin-right: 481px;
+    padding-top: 71px;
+    padding-bottom: 61px;
+}
+
+.col1{
+    margin-left: 121px;
+}
+
+.col2{
+    margin-left: 51px;}

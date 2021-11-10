@@ -23,4 +23,4 @@ function show(){
 
     document.getElementById("namebox").innerHTML = '';
     document.getElementById("agebox").innerHTML = '';
-    document.getElementById("salbox").innerHTML = '';
+    document.getElementById("salbox").innerHTML = '';}
