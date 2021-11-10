@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(240, 156, 156);
-    padding-left: 81px;
+    background-color: white;
+    padding-left: 125px;
     padding-top: 7px;
-    padding-right: 81px;
+    padding-right: 125px;
     padding-bottom: 11px;
 
 }
@@ -17,7 +17,7 @@ body{
 }
 
 .p1c2{
-    margin-left: 810px;
+    margin-left: 500px;
 }
 
 .a2{
@@ -37,7 +37,7 @@ body{
 }
 
 .p1{
-    color: rgb(125, 125, 224);
+    color: rgb(11, 11, 126);
 }
 
 .div1{
@@ -59,19 +59,31 @@ body{
 }
 
 .png4{
-    margin-left: 299px;
+    margin-left: 140px;
 }
 
 .png5{
-    margin-left: 299px;
+    margin-left: 140px;
 }
 
 .png6{
-    margin-left: 299px;
+    margin-left: 140px;
 }
 
 .header3{
     display: flex;
     align-items: center;
     margin-top: 81px;
+}
+.para1 {
+    font-size: large;
+}
+.para2 {
+    font-size: large;
+}
+.para3 {
+    font-size: large;
+}
+.para4 {
+    font-size: large;
 }
